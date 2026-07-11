@@ -1,0 +1,10 @@
+sentence-transformers
+torch
+numpy
+scikit-learn
+faiss-cpu
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+pymysql
